@@ -1,0 +1,11 @@
+{
+  "name": "real-time-markdown-editor",
+  "version": "1.0.0",
+  "description": "Real Time Markdown Editor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruhul",
+  "license": "ISC"
+}
