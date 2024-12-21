@@ -11,10 +11,8 @@
    ```bash
    cd server
 
-   ```bash
    npm install
 
-   ```bash
    npm start
 
   # The backend server will start on http://localhost:5000.
@@ -24,10 +22,8 @@
    ```bash
    cd client
 
-   ```bash
    npm install
 
-   ```bash
    npm start
    
   # The frontend server will start on http://localhost:3000.
